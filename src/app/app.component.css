@@ -1,0 +1,12 @@
+.tooltip-multiline {
+  height: auto;
+  white-space: pre-line;
+  max-width: 300px;
+  line-height: 14px; /*optional*/
+  font-weight: 200; /*optional*/
+  letter-spacing: 0.5px; /*optional*/
+  font-size: 11px; /*optional*/
+}
+.allow-cr {
+  white-space: pre;
+}
